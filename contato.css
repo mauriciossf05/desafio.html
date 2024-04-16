@@ -1,0 +1,17 @@
+.menu_nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu_nav_item {
+    display: inline;
+    padding: 10px;
+}
